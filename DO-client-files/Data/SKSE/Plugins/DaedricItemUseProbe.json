@@ -1,0 +1,10 @@
+{
+  "mode": "gate",
+  "kinds": [
+    "potion",
+    "food",
+    "ingredient"
+  ],
+  "baseIds": [],
+  "durationSeconds": 30
+}

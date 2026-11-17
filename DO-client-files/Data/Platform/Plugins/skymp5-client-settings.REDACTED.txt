@@ -1,0 +1,37 @@
+﻿{
+    "gameData":  {
+                     "profileId":  6405,
+                     "sessionToken":  "\u003cremoved\u003e"
+                 },
+    "master":  "",
+    "server-ip":  "play.daedriconline.com",
+    "server-master-key":  null,
+    "server-port":  7777,
+    "diagnostics":  {
+                        "enabled":  false,
+                        "mirrorAll":  false,
+                        "logFile":  "Diagnostics.log",
+                        "onlyEvents":  "",
+                        "onlyServices":  "",
+                        "skipEvents":  ""
+                    },
+    "enableProfiling":  false,
+    "profilingDurationMs":  20000,
+    "voice":  {
+                  "enabled":  true,
+                  "pttKey":  47,
+                  "modeKey":  56,
+                  "controlPort":  7780,
+                  "controlToken":  "\u003cremoved\u003e"
+              },
+    "bindings":  {
+                     "nametags":  59,
+                     "createWheel":  35,
+                     "hud":  60,
+                     "reportCodes":  61,
+                     "chatFocus":  64
+                 },
+    "blockedEventSources":  [
+
+                            ]
+}

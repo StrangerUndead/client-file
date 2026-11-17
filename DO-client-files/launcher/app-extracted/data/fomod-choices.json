@@ -1,0 +1,373 @@
+{
+ "17230": {
+  "module": "EngineFixes",
+  "selections": [
+   {
+    "step": "Main",
+    "group": "DLL",
+    "plugins": [
+     "SSE v1.6.1170 (\"Anniversary Edition\")"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T10:06:19.263Z"
+ },
+ "44666": {
+  "module": "More Craftable Equipment",
+  "selections": [
+   {
+    "step": "Optional",
+    "group": "Hearthfire Add-on",
+    "plugins": []
+   },
+   {
+    "step": "Creation Club",
+    "group": "Creation Club",
+    "plugins": []
+   },
+   {
+    "step": "Patches (1)",
+    "group": "USSEP etc.",
+    "plugins": [
+     "None"
+    ]
+   },
+   {
+    "step": "Patches (2)",
+    "group": "Patches",
+    "plugins": [
+     "Cloaks and Capes"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T10:07:02.129Z"
+ },
+ "51073": {
+  "module": "powerofthree's Tweaks",
+  "selections": [
+   {
+    "step": "Main",
+    "group": "DLL",
+    "plugins": [
+     "SSE v1.6.629+ (\"Anniversary Edition\")"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T10:06:00.743Z"
+ },
+ "53000": {
+  "module": "MCM Helper",
+  "selections": [
+   {
+    "step": "Game Version",
+    "group": "Game Version",
+    "plugins": [
+     "Skyrim Special Edition"
+    ]
+   },
+   {
+    "step": "Mod Files",
+    "group": "Plugin",
+    "plugins": [
+     "ESP"
+    ]
+   },
+   {
+    "step": "Mod Files",
+    "group": "Resources",
+    "plugins": [
+     "BSA"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T10:08:59.334Z"
+ },
+ "57339": {
+  "module": "Faster HDT-SMP",
+  "selections": [
+   {
+    "step": "Introduction",
+    "group": "Introduction",
+    "plugins": [
+     "Introduction"
+    ]
+   },
+   {
+    "step": "AVX",
+    "group": "AVX",
+    "plugins": [
+     "AVX (recommended)"
+    ]
+   },
+   {
+    "step": "Thanks",
+    "group": "",
+    "plugins": [
+     "Thanks"
+    ]
+   }
+  ],
+  "savedAt": "2026-08-17T08:20:11.403Z",
+  "_note": "AVX variant — hash-matched to the dll samis deployed (58bde4e2…); AVX runs on any modern CPU, AVX2/512 do not."
+ },
+ "72347": {
+  "module": "Precision",
+  "selections": [
+   {
+    "step": "Compatibility",
+    "group": "Compatibility",
+    "plugins": [
+     "None"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T16:12:03.135Z"
+ },
+ "100985": {
+  "module": "Sentinel - An Equipment Overhaul",
+  "selections": [
+   {
+    "step": "Installer",
+    "group": "Main Modules",
+    "plugins": [
+     "Core",
+     "Priests and Acolytes",
+     "City Guards"
+    ]
+   },
+   {
+    "step": "Installer",
+    "group": "Disable AE Quests",
+    "plugins": []
+   },
+   {
+    "step": "Installer",
+    "group": "Patches",
+    "plugins": [
+     "More Craftable Equipment - Unenchanted Clothing and Specialty Gear"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Fur",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Hunter"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Hide",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rogue"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Iron",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rugged",
+     "Runic",
+     "Wrought"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Leather",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rugged"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Steel",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rugged",
+     "Classic Variant - White Fur"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Elven",
+    "plugins": [
+     "Classic",
+     "Bosmer"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Dwarven",
+    "plugins": [
+     "Classic",
+     "Jerral",
+     "Velothi"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Scaled",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rugged"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Plate",
+    "plugins": [
+     "Classic",
+     "Northern",
+     "Rugged",
+     "Gilded",
+     "Classic Variant - Robes"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Orcish",
+    "plugins": [
+     "Classic",
+     "Hide",
+     "Warchief"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Glass",
+    "plugins": [
+     "Classic",
+     "Vvardenfell"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Ebony",
+    "plugins": [
+     "Classic",
+     "Noble",
+     "Gilded",
+     "Gilded Noble"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Daedric",
+    "plugins": [
+     "Classic",
+     "Scaled"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Dragon",
+    "plugins": [
+     "Classic Dragonplate",
+     "Classic Dragonscale"
+    ]
+   },
+   {
+    "step": "Select Your Equipment",
+    "group": "Solstheim",
+    "plugins": [
+     "Classic",
+     "Classic Variant - Brown Fur",
+     "Classic Variant - White Fur"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Companions - Armor",
+    "plugins": [
+     "Classic",
+     "Companion",
+     "Silver Hand",
+     "Classic Variant - White Fur"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Companions - Weapons",
+    "plugins": [
+     "Skyforge Weapons",
+     "Classic Variant - Wolf Shield"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Vigilants of Stendarr - Armor",
+    "plugins": [
+     "Robed Style"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Vigilants of Stendarr - Weapons",
+    "plugins": [
+     "Stendarr Weapons"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Civil War",
+    "plugins": [
+     "Stormcloaks",
+     "Thalmor",
+     "Imperial Battlemage"
+    ]
+   },
+   {
+    "step": "Select Your Equipment - Factions",
+    "group": "Miscellaneous",
+    "plugins": [
+     "Common Gear"
+    ]
+   },
+   {
+    "step": "Select NPC Outfits - Base Game",
+    "group": "NPCs",
+    "plugins": []
+   },
+   {
+    "step": "Select NPC Outfits - Mod Support",
+    "group": "NPCs",
+    "plugins": []
+   }
+  ],
+  "savedAt": "2026-07-05T10:08:48.124Z"
+ },
+ "112481": {
+  "module": "Nirn Necessities - SMP Accessories",
+  "selections": [
+   {
+    "step": "Options",
+    "group": "Core Files",
+    "plugins": [
+     "Install"
+    ]
+   },
+   {
+    "step": "Options",
+    "group": "Light Emitting",
+    "plugins": []
+   },
+   {
+    "step": "Options",
+    "group": "More SPID",
+    "plugins": [
+     "More Backpacks!"
+    ]
+   }
+  ],
+  "savedAt": "2026-07-05T10:07:48.850Z"
+ }
+}

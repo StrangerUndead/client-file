@@ -1,0 +1,2346 @@
+{
+  "_source": "Daedric Online (ptmvzi) rev 28 — 121 mods / 130 files; order+categories+special fields from modlist-overrides.json",
+  "game": "skyrimspecialedition",
+  "collectionSlug": "ptmvzi",
+  "collectionRevision": 28,
+  "collectionUrl": "https://www.nexusmods.com/games/skyrimspecialedition/collections/ptmvzi/revisions/28",
+  "mods": [
+    {
+      "modId": 35785,
+      "name": "Expressive Facegen Morphs SE",
+      "author": "Niroku",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 151138,
+          "name": "Expressive Facegen Morphs SE",
+          "version": "1.0",
+          "sizeBytes": 2628697,
+          "sizeMB": 2.5,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 19181,
+      "name": "Expressive Facial Animation -Female Edition-",
+      "author": "Niroku",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 115524,
+          "name": "Expressive Facial Animation - Female Edition",
+          "version": "1.7",
+          "sizeBytes": 145882,
+          "sizeMB": 0.1,
+          "optional": false
+        }
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: its .tri files live in meshes/actors/character/character assets, which the overlay ships WHOLE. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 19080,
+      "name": "RaceMenu",
+      "author": "Expired",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 743640,
+          "name": "RaceMenu Anniversary Edition v0-4-20-0",
+          "version": "0.4.20.0",
+          "sizeBytes": 8657597,
+          "sizeMB": 8.3,
+          "optional": false
+        }
+      ],
+      "looseFromBsa": [
+        {
+          "bsa": "RaceMenu.bsa",
+          "prefix": "interface/"
+        }
+      ]
+    },
+    {
+      "modId": 1988,
+      "name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
+      "author": "Team XPMSE",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 469854,
+          "name": "XP32 Maximum Skeleton Special Extended",
+          "version": "5.06",
+          "sizeBytes": 2365019,
+          "sizeMB": 2.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "XPMSE.esp"
+      ]
+    },
+    {
+      "modId": 198,
+      "name": "Caliente's Beautiful Bodies Enhancer -CBBE-",
+      "author": "Ousnius - Caliente - Jeir",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 489053,
+          "name": "Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3",
+          "version": "2.0.3",
+          "sizeBytes": 497918478,
+          "sizeMB": 474.9,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CBBE.esp"
+      ]
+    },
+    {
+      "modId": 30174,
+      "name": "CBBE 3BA (3BBB)",
+      "author": "Acro",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 600100,
+          "name": "CBBE 3BA (3BBB)",
+          "version": "2.48",
+          "sizeBytes": 346505352,
+          "sizeMB": 330.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "3BBB.esp"
+      ]
+    },
+    {
+      "modId": 21224,
+      "name": "CBPC - Physics with Collisions for SSE and VR",
+      "author": "Shizof",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 471527,
+          "name": "CBPC - Fomod installer - MAIN FILE",
+          "version": "1.6.4",
+          "sizeBytes": 69924968,
+          "sizeMB": 66.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "SKSE/Plugins/cbp.dll"
+      ]
+    },
+    {
+      "modId": 46311,
+      "name": "Highly Improved Male Body Overhaul -HIMBO-",
+      "author": "Kreiste and Novelyst",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 731729,
+          "name": "02) HIMBO V5 - BG-DG-DB Refits",
+          "version": "5.8a",
+          "sizeBytes": 842028585,
+          "sizeMB": 803,
+          "optional": false
+        },
+        {
+          "fileId": 728973,
+          "name": "01a) HIMBO V5 - Core (Nevernude Body)",
+          "version": "5.8",
+          "sizeBytes": 43941739,
+          "sizeMB": 41.9,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "HIMBO.esp"
+      ]
+    },
+    {
+      "modId": 201,
+      "name": "BodySlide and Outfit Studio",
+      "author": "Ousnius and Caliente",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 767958,
+          "name": "BodySlide and Outfit Studio - v5.8.2",
+          "version": "5.8.2",
+          "sizeBytes": 10445443,
+          "sizeMB": 10,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/BodySlide.exe"
+      ]
+    },
+    {
+      "modId": 8505,
+      "name": "Tempered Skins for Females - UNP CBBE and Vanilla",
+      "author": "traa108",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 167956,
+          "name": "Tempered Skins for Females CBBE",
+          "version": "1.32",
+          "sizeBytes": 413025889,
+          "sizeMB": 393.9,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "textures/actors/character/bretonfemale/femalehead_msn.dds"
+      ]
+    },
+    {
+      "modId": 6580,
+      "name": "SkySight Skins 2025 - Ultra HD 4K 2K Male Textures - Vanilla SoS SAM HIMBO TNG",
+      "author": "fadingsignal",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 631261,
+          "name": "03 - Skysight Skins PERFORMANCE - FOMOD Installer",
+          "version": "2.0.2",
+          "sizeBytes": 435474210,
+          "sizeMB": 415.3,
+          "optional": false
+        }
+      ],
+      "_note": "SkySight Skins (male bodies/faces) — replaced Tempered Skins for Males (7902) at rev 15 (samis). Conflict rules: after CBBE, after Tempered Females, after HIMBO core, before the HIMBO refits.",
+      "detect": [
+        "textures/actors/character/male/MaleBodyAfflicted.dds"
+      ]
+    },
+    {
+      "modId": 28995,
+      "name": "Flawn's Argonians",
+      "author": "lordflawn",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 148118,
+          "name": "Flawn's Argonians - Main 2k",
+          "version": "1.0",
+          "sizeBytes": 124168280,
+          "sizeMB": 118.4,
+          "optional": false
+        },
+        {
+          "fileId": 148121,
+          "name": "Flawn's Argonians - CBBE Patch 2k",
+          "version": "1.0",
+          "sizeBytes": 24934961,
+          "sizeMB": 23.8,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Smooth Argonians.esp"
+      ]
+    },
+    {
+      "modId": 183,
+      "name": "Feminine Khajiit Textures (Grey Cat and Leopard)",
+      "author": "MONSTERaider",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 778318,
+          "name": "Feminine Grey Cat and Leopard (CBBE) 2K",
+          "version": "4.0",
+          "sizeBytes": 46887898,
+          "sizeMB": 44.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Textures/Actors/Character/KhajiitFemale/femalebody.dds"
+      ]
+    },
+    {
+      "modId": 6817,
+      "name": "KS Hairdos SSE",
+      "author": "Kalilies and Stealthic",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 628148,
+          "name": "KS Hairdos SSE",
+          "version": "1.10",
+          "sizeBytes": 1254788469,
+          "sizeMB": 1196.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "KS Hairdo's.esp"
+      ]
+    },
+    {
+      "modId": 44975,
+      "name": "KS Hairdos 1.7 Salt and Wind",
+      "author": "Kalilies jasperthegnome mashanen",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 183040,
+          "name": "KS Hairdos 1.7 - Salt and Wind",
+          "version": "1.1",
+          "sizeBytes": 644767641,
+          "sizeMB": 614.9,
+          "optional": false
+        }
+      ],
+      "_note": "Salt and Wind retexture FOR KS Hairdos 1.7 — pure overwrite of 6817's texture paths, so it has NO unique file: detection can only prove the shared paths exist (6817 provides them too). Must install AFTER 6817.",
+      "detect": [
+        "textures/KS Hairdo's/Acerola.dds"
+      ]
+    },
+    {
+      "modId": 63979,
+      "name": "Vanilla hair remake",
+      "author": "jg1",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 501460,
+          "name": "Vanilla hair remake",
+          "version": "1.0.2",
+          "sizeBytes": 8827229,
+          "sizeMB": 8.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "meshes/actors/character/character assets/hair/argonianfemalehorns05hairline.nif"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: its hairline nifs live in character assets, which the overlay ships WHOLE. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 1062,
+      "name": "Brows",
+      "author": "Hvergelmir",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 85706,
+          "name": "Hvergelmir's Aesthetics - Brows 4.1",
+          "version": "4.1",
+          "sizeBytes": 67649156,
+          "sizeMB": 64.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Brows.esp"
+      ]
+    },
+    {
+      "modId": 1067,
+      "name": "Beards",
+      "author": "Hvergelmir",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 85745,
+          "name": "Hvergelmir's Aesthetics - Beards 5.0.1",
+          "version": "5.0.1",
+          "sizeBytes": 146084381,
+          "sizeMB": 139.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Beards.esp"
+      ]
+    },
+    {
+      "modId": 9141,
+      "name": "Improved Eyes Skyrim",
+      "author": "missjennabee and Nazenn",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 23215,
+          "name": "Improved Eyes Skyrim SSE 1.6",
+          "version": "1.6",
+          "sizeBytes": 15693643,
+          "sizeMB": 15,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Improved Eyes Skyrim.esp"
+      ]
+    },
+    {
+      "modId": 16185,
+      "name": "The Eyes Of Beauty SSE",
+      "author": "LogRaam aka Gabriel Mailhot",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 157401,
+          "name": "The Eyes of Beauty SSE",
+          "version": "1.2.1",
+          "sizeBytes": 5100903,
+          "sizeMB": 4.9,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "TheEyesOfBeauty.esp"
+      ]
+    },
+    {
+      "modId": 25753,
+      "name": "Eyes AO Clipping Fix",
+      "author": "Artsick",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 92806,
+          "name": "Eyes AO Clipping Fix",
+          "version": "1.3",
+          "sizeBytes": 11820,
+          "sizeMB": 0,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "meshes/actors/character/character assets/eyesfemale.nif"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: eyesfemale.nif lives in character assets, which the overlay ships WHOLE. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 148541,
+      "name": "Alternate High Poly Head",
+      "author": "Don Calzone",
+      "category": "Character & Appearance",
+      "files": [
+        {
+          "fileId": 736347,
+          "name": "Alternate High Poly Head SE",
+          "version": "2.5",
+          "sizeBytes": 15641868,
+          "sizeMB": 14.9,
+          "optional": false
+        }
+      ],
+      "_note": "Alternate High Poly Head 2.5 ships AlternateHighPolyHead_SE.esp ESL-FLAGGED — but it is a HEADPART plugin, and headpart plugins MUST load as REGULAR (the fake-save spawn path writes only regular plugins into the save's plugin list; docs/08). The overlay ships a DE-ESL'd copy (TES4 flag 0x200 cleared, tools/patch-ahph-esp.js) that must win over the stock Vortex deploy; the manifest pins the PATCHED hash. Full-class tail: 0x23.",
+      "detect": [
+        "AlternateHighPolyHead_SE.esp"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: esp + meshes/DonCalzone/High Poly Head (added to publish-overlay.js 2026-08-29 — the black-face fix) are both overlay-asserted. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 92109,
+      "name": "Open Animation Replacer",
+      "author": "Ersh",
+      "category": "Combat & Movement",
+      "files": [
+        {
+          "fileId": 768987,
+          "name": "Open Animation Replacer",
+          "version": "3.1.6",
+          "sizeBytes": 8256213,
+          "sizeMB": 7.9,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 72347,
+      "name": "Precision - Accurate Melee Collisions",
+      "author": "Ersh",
+      "category": "Combat & Movement",
+      "files": [
+        {
+          "fileId": 351862,
+          "name": "Precision",
+          "version": "2.0.4",
+          "sizeBytes": 724838,
+          "sizeMB": 0.7,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 51614,
+      "name": "True Directional Movement - Modernized Third Person Gameplay",
+      "author": "Ersh",
+      "category": "Combat & Movement",
+      "files": [
+        {
+          "fileId": 768996,
+          "name": "True Directional Movement",
+          "version": "2.2.7",
+          "sizeBytes": 4876361,
+          "sizeMB": 4.7,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 62775,
+      "name": "TrueHUD - HUD Additions",
+      "author": "Ersh",
+      "category": "Interface",
+      "files": [
+        {
+          "fileId": 454617,
+          "name": "TrueHUD",
+          "version": "1.1.9",
+          "sizeBytes": 305668,
+          "sizeMB": 0.3,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 50129,
+      "name": "Skyrim Priority SE AE - CPU Performance FPS Optimizer",
+      "author": "Boring3",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 355110,
+          "name": "Skyrim Priority SE AE (3.4.0)",
+          "version": "3.4.0",
+          "sizeBytes": 61073,
+          "sizeMB": 0.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 6289,
+      "name": "JK's Skyrim",
+      "author": "Jkrojmal and Teabag86",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 189705,
+          "name": "JK's Skyrim all in one",
+          "version": "1.7",
+          "sizeBytes": 11382962,
+          "sizeMB": 10.9,
+          "optional": false
+        }
+      ],
+      "_note": "JK's Skyrim ALL IN ONE. Replaced BOTH standalone JK plugins on 2026-07-24 - it re-touches 156/156 of JKs Whiterun.esp's records and 139/144 of JK's Riverwood.esp's, so stacking them would have double-edited every city.",
+      "detect": [
+        "JKs Skyrim.esp",
+        "JKs Skyrim.bsa"
+      ]
+    },
+    {
+      "modId": 42990,
+      "name": "Capital Windhelm Expansion",
+      "author": "Surjamte",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 188036,
+          "name": "Capital Windhelm Expansion 1.3 - Normal",
+          "version": "1.3",
+          "sizeBytes": 85939848,
+          "sizeMB": 82,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 49298,
+      "name": "Capital Windhelm Expansion and JK Skyrim - United",
+      "author": "TheNizorro",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 205418,
+          "name": "CWE - JK - United",
+          "version": "1.0.7",
+          "sizeBytes": 355423,
+          "sizeMB": 0.3,
+          "optional": false
+        }
+      ],
+      "_note": "Capital Windhelm Expansion x JK's Skyrim conflict patch - MUST install after both 6289 and 42990.",
+      "detect": [
+        "CWE - JK - United.esp"
+      ]
+    },
+    {
+      "modId": 93006,
+      "name": "JK's Markarth Outskirts",
+      "author": "Jkrojmal",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 744740,
+          "name": "JK's Markarth Outskirts",
+          "version": "2.0.1",
+          "sizeBytes": 998579,
+          "sizeMB": 1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 90864,
+      "name": "JK's Riften Outskirts",
+      "author": "Jkrojmal",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 464233,
+          "name": "JK's Riften Outskirts",
+          "version": "1.1",
+          "sizeBytes": 480165,
+          "sizeMB": 0.5,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 78351,
+      "name": "JK's Whiterun Outskirts",
+      "author": "Jkrojmal",
+      "category": "Cities",
+      "files": [
+        {
+          "fileId": 652546,
+          "name": "JK's Whiterun Outskirts",
+          "version": "1.6.2",
+          "sizeBytes": 3211063,
+          "sizeMB": 3.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 37982,
+      "name": "Capital Whiterun Expansion",
+      "author": "Surjamte",
+      "category": "Cities",
+      "files": [
+        {
+          "fileId": 157128,
+          "name": "B. Whiterun Expansion 1.3 Exterior Compatibility Version",
+          "version": "1.3",
+          "sizeBytes": 31763185,
+          "sizeMB": 30.3,
+          "optional": false
+        }
+      ],
+      "_note": "'Capital Whiterun Expansion' file 157128 IS the SurWR delivery vehicle - its archive ships SurWR.esp/.bsa/-Textures.bsa/Seq (the claimable-housing plugin that's been in the build all along at index 0x16). Detect by its real payload.",
+      "detect": [
+        "SurWR.esp",
+        "SurWR.bsa",
+        "Seq/SurWR.seq"
+      ],
+      "_note2": "Installs LAST of the city mods: Capital Whiterun Expansion owns Whiterun, and our RP_JKWhiterun.esp (overlay-shipped, index 0x19) disables JK's ~1.8k Whiterun refs so the two do not double-build the same 14 cells."
+    },
+    {
+      "modId": 32349,
+      "name": "Actor Limit Fix",
+      "author": "meh321",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 368385,
+          "name": "Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)",
+          "version": "9",
+          "sizeBytes": 1851769,
+          "sizeMB": 1.8,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 32444,
+      "name": "Address Library for SKSE Plugins",
+      "author": "meh321",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 720756,
+          "name": "Address Library - All in one (all game versions)",
+          "version": "11",
+          "sizeBytes": 5302930,
+          "sizeMB": 5.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 82395,
+      "name": "Animation Queue Fix",
+      "author": "Ersh",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 348271,
+          "name": "Animation Queue Fix",
+          "version": "1.0.1",
+          "sizeBytes": 128700,
+          "sizeMB": 0.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 81409,
+      "name": "Constructible Object Custom Keyword System",
+      "author": "Parapets",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 493920,
+          "name": "Crafting Categories for SkyUI",
+          "version": "1.1.1",
+          "sizeBytes": 2503691,
+          "sizeMB": 2.4,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 59818,
+      "name": "Crash Logger SSE AE VR - PDB support",
+      "author": "alandtse",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 769017,
+          "name": "CrashLogger",
+          "version": "1.24.0",
+          "sizeBytes": 7195434,
+          "sizeMB": 6.9,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 85260,
+      "name": "Native EditorID Fix",
+      "author": "Kitsuune",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 488800,
+          "name": "Native EditorID Fix",
+          "version": "1.2.2",
+          "sizeBytes": 109716,
+          "sizeMB": 0.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 51073,
+      "name": "powerofthree's Tweaks",
+      "author": "powerofthree",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 775213,
+          "name": "powerofthree's Tweaks",
+          "version": "1.16.0",
+          "sizeBytes": 6398382,
+          "sizeMB": 6.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 50049,
+      "name": "Simple Dual Sheath",
+      "author": "SlavicPotato",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 450438,
+          "name": "Simple Dual Sheath for 1.6.629 and newer",
+          "version": "1.5.7",
+          "sizeBytes": 246087,
+          "sizeMB": 0.2,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 106659,
+      "name": "SkyPatcher",
+      "author": "Zzyxzz",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 766415,
+          "name": "SkyPatcher - AE",
+          "version": "6.4.2",
+          "sizeBytes": 9949140,
+          "sizeMB": 9.5,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 30379,
+      "name": "Skyrim Script Extender (SKSE64)",
+      "author": "SKSE Team",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 462377,
+          "name": "Skyrim Script Extender (SKSE64)  Steam",
+          "version": "2.2.6",
+          "sizeBytes": 751136,
+          "sizeMB": 0.7,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 34705,
+      "name": "SSE Display Tweaks",
+      "author": "SlavicPotato",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 454679,
+          "name": "SSE Display Tweaks",
+          "version": "0.5.16",
+          "sizeBytes": 186371,
+          "sizeMB": 0.2,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 17230,
+      "name": "SSE Engine Fixes (skse64 plugin)",
+      "author": "aers - Nukem - Ryan",
+      "category": "Engine & Stability",
+      "files": [
+        {
+          "fileId": 725753,
+          "name": "Engine Fixes - Main File",
+          "version": "7.0.20",
+          "sizeBytes": 7973497,
+          "sizeMB": 7.6,
+          "optional": false
+        },
+        {
+          "fileId": 725261,
+          "name": "Engine Fixes - SKSE64 Preloader",
+          "version": "7",
+          "sizeBytes": 25080,
+          "sizeMB": 0,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 2019,
+      "name": "Cloaks and Capes - FSMP - XPMSSE",
+      "author": "volvaga0",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 35552,
+          "name": "Cloaks and Capes",
+          "version": "1.4",
+          "sizeBytes": 45920738,
+          "sizeMB": 43.8,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 5063,
+      "name": "Common Clothes (by FranklinZunge for SSE)",
+      "author": "FranklinZunge",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 160449,
+          "name": "ESP --- NPC Level List Distribution and Armor Craftable",
+          "version": ".99",
+          "sizeBytes": 7174,
+          "sizeMB": 0,
+          "optional": false
+        },
+        {
+          "fileId": 10870,
+          "name": "1K Assets",
+          "version": ".99",
+          "sizeBytes": 213232333,
+          "sizeMB": 203.4,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 82495,
+      "name": "Moon Monk's Robes",
+      "author": "Kadraeus",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 563342,
+          "name": "Moon Monk's Robes - 2K",
+          "version": "1.2",
+          "sizeBytes": 144285442,
+          "sizeMB": 137.6,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 44666,
+      "name": "More Craftable Equipment - Unenchanted Clothing and Specialty Gear",
+      "author": "Parapets",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 363683,
+          "name": "More Craftable Equipment",
+          "version": "1.4.0",
+          "sizeBytes": 57745716,
+          "sizeMB": 55.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 30468,
+      "name": "New Legion",
+      "author": "NordwarUA",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 113850,
+          "name": "Base",
+          "version": "1.0",
+          "sizeBytes": 15570899,
+          "sizeMB": 14.8,
+          "optional": false
+        },
+        {
+          "fileId": 113852,
+          "name": "Textures Medium",
+          "version": "1.0",
+          "sizeBytes": 58251919,
+          "sizeMB": 55.6,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 112481,
+      "name": "Nirn Necessities - SMP Accessories",
+      "author": "Everglaid",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 563435,
+          "name": "Nirn Necessities - SMP Accessories",
+          "version": "1.03",
+          "sizeBytes": 208230990,
+          "sizeMB": 198.6,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 133857,
+      "name": "Nirn Necessities - My patches SE by Xtudo - Non-HDT Optimized Textures Backpack Satchel Scarf Cape Cloak Gaiter",
+      "author": "Author Everglaid - My patches by Xtudo",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 561937,
+          "name": "Nirn Necessities - SE by Xtudo - Non-HDT patch",
+          "version": "1",
+          "sizeBytes": 5189781,
+          "sizeMB": 4.9,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 100985,
+      "name": "Sentinel - An Equipment Overhaul",
+      "author": "Thuldor",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 600826,
+          "name": "Sentinel - An Equipment Overhaul",
+          "version": "3.2.0",
+          "sizeBytes": 146074453,
+          "sizeMB": 139.3,
+          "optional": false
+        },
+        {
+          "fileId": 600824,
+          "name": "Sentinel - Required Resources",
+          "version": "3.2.0",
+          "sizeBytes": 2446346142,
+          "sizeMB": 2333,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 169917,
+      "name": "Sentinel - Equipment Overhaul - CBBE 3BA Bodyslide",
+      "author": "MonkeydMod",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 710218,
+          "name": "Sentinel CBBE 3BA Bodyslide",
+          "version": "1.0",
+          "sizeBytes": 428060392,
+          "sizeMB": 408.2,
+          "optional": false
+        }
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire runtime payload since the body-types wardrobe (#395, collection rev 23, 2026-09-30): Sentinel Bodyslide.esp is overlay-shipped (the handoff's copy), and all 573 of the archive's meshes are members of the wardrobe BSAs (DaedricWardrobeCompatibility*.bsa / Asdasfa), whose loose copies the launcher retires. The rest of the archive is CalienteTools/BodySlide authoring data, not runtime. Its old detect (the esp) read INSTALLED on every machine. Re-verify if the wardrobe release or its archive layout changes."
+    },
+    {
+      "modId": 175029,
+      "name": "Sentinel - HIMBO Refit",
+      "author": "Jayysee Thuldor",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 736843,
+          "name": "Sentinel - HIMBO Refit",
+          "version": "1.1",
+          "sizeBytes": 248838648,
+          "sizeMB": 237.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/HIMBO Sentinel - 1st Person - Banded  Rugged Iron/Banded Rugged Iron - 1st Person.nif"
+      ]
+    },
+    {
+      "modId": 122841,
+      "name": "New Legion - CBBE 3BA",
+      "author": "furexarot",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 515424,
+          "name": "New Legion CBBE 3BA",
+          "version": "1.0",
+          "sizeBytes": 21213023,
+          "sizeMB": 20.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/Bodyslide/ShapeData/New Legion 3BA Chainmail/1stpersonChainmailF.nif"
+      ]
+    },
+    {
+      "modId": 88406,
+      "name": "Common Clothes and Armors - HIMBO conversion",
+      "author": "JustCallMeTanner",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 374720,
+          "name": "Common Clothes and Armors - HIMBO",
+          "version": "1.0",
+          "sizeBytes": 42820527,
+          "sizeMB": 40.8,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/HIMBO II CC_Clothes/CC_Clothes.nif"
+      ]
+    },
+    {
+      "modId": 83980,
+      "name": "Common Clothes and Armors -3BA- Bodyslide",
+      "author": "JamesDogg",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 355184,
+          "name": "Common Clothes and Armors 3BA Bodyslide 1.0",
+          "version": "1",
+          "sizeBytes": 99827594,
+          "sizeMB": 95.2,
+          "optional": false
+        }
+      ],
+      "_note": "Common Clothes 3BA refit — BodySlide PROJECT files only (no meshes). The wearable meshes are BUILT on the build host and ship via the OVERLAY BodySlide output, same as every other refit (see 47304e3): rebuild BodySlide output to cover CCA 3BA before players wear these, or clothes render with the un-refit body.",
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/CCA 3BA/CCA 3BA Armor Brigand cuirassmediumf.nif"
+      ]
+    },
+    {
+      "modId": 86802,
+      "name": "Moon Monk 3BA Bodyslide",
+      "author": "pentapox",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 367464,
+          "name": "Moon Monk's Robes 3BA",
+          "version": "0.1alpha",
+          "sizeBytes": 7534648,
+          "sizeMB": 7.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/[pentapox] moon monk boots/[pentapox] moon monk boots.nif"
+      ]
+    },
+    {
+      "modId": 3218,
+      "name": "The Notice Board SE",
+      "author": "MannyGT",
+      "category": "Towns & Cities",
+      "files": [
+        {
+          "fileId": 10424,
+          "name": "The Notice Board",
+          "version": "1.4",
+          "sizeBytes": 2338680,
+          "sizeMB": 2.2,
+          "optional": false
+        }
+      ],
+      "_note": "The Notice Board joined the collection at rev 15 as the BSA/asset source. Its esp MUST be the BYTE-PATCHED copy (tools/patch-noticeboard-mod.js: quests de-SGE'd, 133 refs initially-disabled) — a Vortex deploy writes the STOCK esp, and the launcher overlay re-asserts the patched one on launch. Never hash-pin the stock esp.",
+      "detect": [
+        "notice board.esp",
+        "notice board.bsa"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: esp + notice board.bsa + notice board - Textures.bsa are all overlay-asserted. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 53000,
+      "name": "MCM Helper",
+      "author": "Parapets",
+      "category": "Interface",
+      "files": [
+        {
+          "fileId": 746161,
+          "name": "MCM Helper",
+          "version": "1.6.2",
+          "sizeBytes": 8115424,
+          "sizeMB": 7.7,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 27859,
+      "name": "Skyrim Souls RE - Unpaused Menus",
+      "author": "Vermunds and Fudgyduff",
+      "category": "Interface",
+      "files": [
+        {
+          "fileId": 754726,
+          "name": "Skyrim Souls RE - Unpaused Menus",
+          "version": "3.1.2",
+          "sizeBytes": 6149589,
+          "sizeMB": 5.9,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 12604,
+      "name": "SkyUI",
+      "author": "SkyUI Team",
+      "category": "Interface",
+      "files": [
+        {
+          "fileId": 739315,
+          "name": "SkyUI",
+          "version": "6.8",
+          "sizeBytes": 2679404,
+          "sizeMB": 2.6,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 5804,
+      "name": "A Quality World Map",
+      "author": "IcePenguin",
+      "category": "Interface",
+      "files": [
+        {
+          "fileId": 13792,
+          "name": "9.0.1 A Quality World Map - Vivid with Stone Roads",
+          "version": "9.0.1",
+          "sizeBytes": 21683072,
+          "sizeMB": 20.7,
+          "optional": false
+        },
+        {
+          "fileId": 13556,
+          "name": "A Quality World Map - Clear Map Skies",
+          "version": "9.0.1CMS",
+          "sizeBytes": 2477434,
+          "sizeMB": 2.4,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 266,
+      "name": "Unofficial Skyrim Special Edition Patch - USSEP",
+      "author": "The Unofficial Patch Project Team",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 661259,
+          "name": "Unofficial Skyrim Special Edition Patch",
+          "version": "4.3.6c",
+          "sizeBytes": 169230380,
+          "sizeMB": 161.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "unofficial skyrim special edition patch.bsa"
+      ],
+      "_note": "DETECT MUST NOT NAME A FILE THE OVERLAY SHIPS (2026-08-29). This entry used to name the plugin, which publish-overlay.js writes into Data on every launch — so existsSync() was unconditionally true and the mod read INSTALLED on 100% of machines forever, exactly like Nexus 148541 did while it was rendering black faces. Repointed at an asset the overlay does NOT write, so an absent Vortex deploy is actually visible. See docs/08 (always-green detect signatures)."
+    },
+    {
+      "modId": 3038,
+      "name": "Fores New Idles in Skyrim SE - FNIS SE",
+      "author": "fore",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 124617,
+          "name": "FNIS Behavior SE 7_6",
+          "version": "7.6",
+          "sizeBytes": 3749077,
+          "sizeMB": 3.6,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "tools/GenerateFNIS_for_Users/GenerateFNISforUsers.exe"
+      ]
+    },
+    {
+      "modId": 3479,
+      "name": "Immersive Armors",
+      "author": "Hothtrooper44",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 5924,
+          "name": "Immersive Armors 8.1 SSE",
+          "version": "8.1",
+          "sizeBytes": 1093036414,
+          "sizeMB": 1042.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Hothtrooper44_ArmorCompilation.esp",
+        "Hothtrooper44_Armor_Ecksstra.esp"
+      ]
+    },
+    {
+      "modId": 7300,
+      "name": "Sea Salt Deposits",
+      "author": "Haladoon",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 450355,
+          "name": "Sea Salt Deposits 2.0",
+          "version": "2.0",
+          "sizeBytes": 1569322,
+          "sizeMB": 1.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Saltdeposits.esp"
+      ]
+    },
+    {
+      "modId": 8586,
+      "name": "Relighting Skyrim SE",
+      "author": "NovakDalton-JawZ-Step Modifications",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 732148,
+          "name": "Relighting Skyrim SE v3.1",
+          "version": "3.1",
+          "sizeBytes": 1275301,
+          "sizeMB": 1.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "RelightingSkyrim_SSE.esp"
+      ]
+    },
+    {
+      "modId": 12125,
+      "name": "Obsidian Weathers and Seasons",
+      "author": "DrJacopo and Arindel",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 202527,
+          "name": "Obsidian Weathers - 1.07a",
+          "version": "1.07a",
+          "sizeBytes": 2291553,
+          "sizeMB": 2.2,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 13061,
+      "name": "Pipe Smoking SE",
+      "author": "MadNuttah and Virakotxa",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 36966,
+          "name": "Pipe Smoking SE",
+          "version": "1.0",
+          "sizeBytes": 7103977,
+          "sizeMB": 6.8,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "PipeSmokingSE.esp"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: PipeSmokingSE.esp + PipeSmokingSE.bsa are both overlay-asserted. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 16788,
+      "name": "Immersive Weapons",
+      "author": "Hothtrooper44 -  Ironman5000 - Eckss",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 52498,
+          "name": "Immersive Weapons",
+          "version": "2",
+          "sizeBytes": 451429839,
+          "sizeMB": 430.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Immersive Weapons List.txt"
+      ],
+      "_note": "DETECT MUST NOT NAME A FILE THE OVERLAY SHIPS (2026-08-29). This entry used to name the plugin, which publish-overlay.js writes into Data on every launch — so existsSync() was unconditionally true and the mod read INSTALLED on 100% of machines forever, exactly like Nexus 148541 did while it was rendering black faces. Repointed at an asset the overlay does NOT write, so an absent Vortex deploy is actually visible. See docs/08 (always-green detect signatures)."
+    },
+    {
+      "modId": 17127,
+      "name": "The Great City Of Winterhold SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 579610,
+          "name": "The Great City of Winterhold",
+          "version": "4.2.3",
+          "sizeBytes": 67838504,
+          "sizeMB": 64.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Winterhold v4.esp"
+      ]
+    },
+    {
+      "modId": 19491,
+      "name": "The Great City Of Dawnstar SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 352994,
+          "name": "The Great City of Dawnstar SSE",
+          "version": "2.12",
+          "sizeBytes": 963829,
+          "sizeMB": 0.9,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Dawnstar.esp"
+      ]
+    },
+    {
+      "modId": 19592,
+      "name": "The Great City Of Morthal SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 65630,
+          "name": "The Great City of Morthal",
+          "version": "1.11",
+          "sizeBytes": 316858,
+          "sizeMB": 0.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Morthal.esp"
+      ]
+    },
+    {
+      "modId": 19709,
+      "name": "The Great City Of Falkreath SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 371332,
+          "name": "The Great City of Falkreath",
+          "version": "1.22",
+          "sizeBytes": 286544,
+          "sizeMB": 0.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Falkreath.esp"
+      ]
+    },
+    {
+      "modId": 19962,
+      "name": "The Great City of Dragon Bridge SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 69110,
+          "name": "The Great City of Dragon Bridge 1.12",
+          "version": "1.12",
+          "sizeBytes": 1716439,
+          "sizeMB": 1.6,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Dragon Bridge.esp"
+      ]
+    },
+    {
+      "modId": 20151,
+      "name": "The Great City of Rorikstead SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 83440,
+          "name": "The Great City of Rorikstead 1.2",
+          "version": "1.2",
+          "sizeBytes": 185733,
+          "sizeMB": 0.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great City of Rorikstead.esp"
+      ]
+    },
+    {
+      "modId": 20272,
+      "name": "The Great Cities - Minor Cities and Towns SSE Edition",
+      "author": "soldierofwar",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 83508,
+          "name": "The Great Cities 2.01",
+          "version": "2.01",
+          "sizeBytes": 3355575,
+          "sizeMB": 3.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great Cities - Minor Cities and Towns.esp"
+      ]
+    },
+    {
+      "modId": 20514,
+      "name": "Obscure's College of Winterhold",
+      "author": "SomethingObscure",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 134566,
+          "name": "Obscure's College of Winterhold",
+          "version": "1.6.1",
+          "sizeBytes": 159945411,
+          "sizeMB": 152.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "OCW_MaMO_FEPatch.esp",
+        "OCW_CellSettings.esp",
+        "OCW_Obscure's_CollegeofWinterhold.esp"
+      ]
+    },
+    {
+      "modId": 22382,
+      "name": "Immersive Armours - SSE CBBE 3BA BodySlide",
+      "author": "Jeir",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 461940,
+          "name": "Immersive Armours - SSE CBBE 3BA BodySlide",
+          "version": "3.1.1",
+          "sizeBytes": 225867228,
+          "sizeMB": 215.4,
+          "optional": false
+        }
+      ],
+      "_note": "DETECT MUST NOT NAME A FILE THE OVERLAY SHIPS (2026-08-29). Was 'IA CBBE Patch.esp', which publish-overlay.js writes into Data every launch, so the mod read INSTALLED on every machine forever. Repointed at the BodySlide sliderset the mod itself deploys and the overlay does not.",
+      "detect": [
+        "CalienteTools/BodySlide/SliderSets/Immersive Armours SSE CBBE.osp"
+      ]
+    },
+    {
+      "modId": 27839,
+      "name": "Mysticism - A Magic Overhaul",
+      "author": "Simon Magus",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 787777,
+          "name": "Mysticism - A Magic Overhaul",
+          "version": "2.5.0",
+          "sizeBytes": 11101145,
+          "sizeMB": 10.6,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "MysticismMagic.esp"
+      ]
+    },
+    {
+      "modId": 28952,
+      "name": "Cities of the North - Dawnstar",
+      "author": "JPSteel2",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 444243,
+          "name": "Cities of the North - Dawnstar",
+          "version": "1.4",
+          "sizeBytes": 76349645,
+          "sizeMB": 72.8,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN - Dawnstar.esp"
+      ]
+    },
+    {
+      "modId": 30885,
+      "name": "Cities of the North - Dawnstar Patch Collection",
+      "author": "robertgk2017 the1yunico BreezyBuns ra2phoenix fenrir0054 MissileMann Czasior and Janquel",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 725411,
+          "name": "COTN Dawnstar Patch Collection",
+          "version": "5.9",
+          "sizeBytes": 51592104,
+          "sizeMB": 49.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN Dawnstar - JK's Skyrim - TGC Dawnstar Patch.esp"
+      ]
+    },
+    {
+      "modId": 33687,
+      "name": "The Great Cities of JK's North - Patch",
+      "author": "Gardden",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 565211,
+          "name": "The Great Cities of JK's North v6",
+          "version": "6.01",
+          "sizeBytes": 11884858,
+          "sizeMB": 11.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "The Great Cities of JK's North - Patch.esp"
+      ]
+    },
+    {
+      "modId": 34168,
+      "name": "Cities of the North - Morthal",
+      "author": "JPSteel2",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 444269,
+          "name": "Cities of the North - Morthal",
+          "version": "1.2",
+          "sizeBytes": 34877082,
+          "sizeMB": 33.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN - Morthal.esp"
+      ]
+    },
+    {
+      "modId": 34228,
+      "name": "Cities of the North - Morthal Patch Collection",
+      "author": "Janquel Czasior robertgk2017 ra2phoenix fenrir0054 OrangeShade BreezyBuns DrMonops Missilemann",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 724152,
+          "name": "COTN Morthal Patch Collection",
+          "version": "3.7",
+          "sizeBytes": 30682924,
+          "sizeMB": 29.3,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN Morthal - CC - Fishing Patch.esp",
+        "COTN Morthal - JKs Skyrim - The Great City of Morthal Patch.esp",
+        "COTN Morthal - Notice Board patch.esp"
+      ]
+    },
+    {
+      "modId": 40088,
+      "name": "Cities of the North - Winterhold",
+      "author": "JPSteel2",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 165114,
+          "name": "Cities of the North - Winterhold",
+          "version": "1.1",
+          "sizeBytes": 10018213,
+          "sizeMB": 9.6,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN - Winterhold.esp"
+      ]
+    },
+    {
+      "modId": 43389,
+      "name": "Flawn's Vanilla Argonians Redux - 4k CBBE UNP SOS HIMBO - FVAR",
+      "author": "Lordflawn",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 638157,
+          "name": "FVAR - Main CBBE",
+          "version": "2.0",
+          "sizeBytes": 257038984,
+          "sizeMB": 245.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 53308,
+      "name": "NordwarUA's New Legion - HIMBO Bodyslide",
+      "author": "NordwarUA - Kreiste",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 636519,
+          "name": "HIMBO NordwarUA - New Legion",
+          "version": "2.1",
+          "sizeBytes": 31623606,
+          "sizeMB": 30.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/HIMBO NordwarUA NL - Penitus Oculatus/HIMBO NordwarUA NL - Hands - Penitus Oculatus Bracers.nif",
+        "CalienteTools/BodySlide/ShapeData/HIMBO NordwarUA NL - Penitus Oculatus/HIMBO NordwarUA NL - Hands - Penitus Oculatus Bracers.osd"
+      ]
+    },
+    {
+      "modId": 56731,
+      "name": "Cities of the North - Falkreath",
+      "author": "JPSteel2",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 377972,
+          "name": "Cities of the North - Falkreath",
+          "version": "1.3",
+          "sizeBytes": 10046508,
+          "sizeMB": 9.6,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN - Falkreath.esp"
+      ]
+    },
+    {
+      "modId": 56734,
+      "name": "Cities of the North - Falkreath Patch Collection",
+      "author": "Czasior ra2phoenix InstantKor Janquel Jelidity robertgk2017",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 708837,
+          "name": "COTN Falkreath Patch Collection",
+          "version": "1.29",
+          "sizeBytes": 13282155,
+          "sizeMB": 12.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN Falkreath - CC - Fishing Patch.esp",
+        "COTN Falkreath - JKs Skyrim - TGCF Patch.esp"
+      ]
+    },
+    {
+      "modId": 57339,
+      "name": "FSMP - Faster HDT-SMP",
+      "author": "Too long - see credits in description",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 772037,
+          "name": "FSMP 4.0.1",
+          "version": "4.0.1",
+          "sizeBytes": 37975792,
+          "sizeMB": 36.2,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 62752,
+      "name": "Armors of the Velothi Pt. I",
+      "author": "Pulcharmsolis - VishVadeva50",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 624586,
+          "name": "Armors of the Velothi Pt. I 2k (1.3.1)",
+          "version": "1.3.1",
+          "sizeBytes": 133472002,
+          "sizeMB": 127.3,
+          "optional": false
+        }
+      ],
+      "_note": "DETECT MUST NOT NAME A FILE THE OVERLAY SHIPS (2026-08-29). This entry used to name the plugin, which publish-overlay.js writes into Data on every launch — so existsSync() was unconditionally true and the mod read INSTALLED on 100% of machines forever, exactly like Nexus 148541 did while it was rendering black faces. Repointed at an asset the overlay does NOT write, so an absent Vortex deploy is actually visible. See docs/08 (always-green detect signatures).",
+      "detect": [
+        "Armors of the Velothi.bsa"
+      ]
+    },
+    {
+      "modId": 69996,
+      "name": "Armors of the Velothi Pt. II",
+      "author": "Pulcharm",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 665321,
+          "name": "Armors of the Velothi Pt. II 2k (1.1.2)",
+          "version": "1.1.2",
+          "sizeBytes": 257287662,
+          "sizeMB": 245.4,
+          "optional": false
+        }
+      ],
+      "_note": "DETECT MUST NOT NAME A FILE THE OVERLAY SHIPS (2026-08-29). This entry used to name the plugin, which publish-overlay.js writes into Data on every launch — so existsSync() was unconditionally true and the mod read INSTALLED on 100% of machines forever, exactly like Nexus 148541 did while it was rendering black faces. Repointed at an asset the overlay does NOT write, so an absent Vortex deploy is actually visible. See docs/08 (always-green detect signatures).",
+      "detect": [
+        "Armors of the Velothi Pt2.bsa"
+      ]
+    },
+    {
+      "modId": 73336,
+      "name": "Moons and Stars - Sky Overhaul SKSE",
+      "author": "powerofthree and wSkeever",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 323576,
+          "name": "Moons And Stars - Sky Overhaul SKSE",
+          "version": "2.0.2",
+          "sizeBytes": 4271232,
+          "sizeMB": 4.1,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "MoonsAndStars.esp",
+        "skse/plugins/po3_MoonMod.dll"
+      ]
+    },
+    {
+      "modId": 74560,
+      "name": "The Great City of Winterhold Patch Collection",
+      "author": "Jelidity Janquel Czasior",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 679604,
+          "name": "The Great City of Winterhold Patch Collection",
+          "version": "2.10",
+          "sizeBytes": 12552926,
+          "sizeMB": 12,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "TGC Winterhold - Notice Board Patch.esp",
+        "TGCotN Winterhold - JKs Skyrim patch.esp",
+        "TGCotN Winterhold.esp"
+      ]
+    },
+    {
+      "modId": 75774,
+      "name": "COTN Winterhold - Castle Interior Enhanced",
+      "author": "H Shirlock",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 318811,
+          "name": "COTN Winterhold - Castle Interior Enhanced (ESP version)",
+          "version": "2.1",
+          "sizeBytes": 50779,
+          "sizeMB": 0,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "COTN Winterhold - Castle Interior Tweaks.esp"
+      ]
+    },
+    {
+      "modId": 75891,
+      "name": "Immersive Armors Retexture and Mesh Fixes SE",
+      "author": "Xavbio",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 402562,
+          "name": "Immersive Armors Retexture and Mesh Fixes-Half Res",
+          "version": "1.61",
+          "sizeBytes": 854543458,
+          "sizeMB": 815,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "DaedricWardrobeCompatibility.bsa"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Every file this mod installs is overlay-shipped or a wardrobe BSA member, so presence is guaranteed and there is nothing left to detect. Re-verify if the wardrobe release changes."
+    },
+    {
+      "modId": 85433,
+      "name": "Immersive Armors - Asdasfa Tweaks and Fixes",
+      "author": "asdasfa",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 536832,
+          "name": "Immersive Armors - Asdasfa Tweaks and Fixes",
+          "version": "1.15.0",
+          "sizeBytes": 27303274,
+          "sizeMB": 26,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "scripts/source/Ecks_IADistributionScript.psc"
+      ],
+      "_detect": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Chosen from the Vortex staging install as a file this mod installs that neither the overlay nor the wardrobe BSAs write (their loose copies are retired by the launcher).",
+      "_advisoryNote": "2026-10-01 (1.3.74): ADVISORY. Fresh rev 26 installs on players PCs lacked this mod detect file and the launcher walled them out of Play (\"3 required mods missing\") though the runtime payload is overlay-shipped (wardrobe BSAs / overlay esp). Reported, never a wall.",
+      "overlayProvided": true,
+      "_overlayProvided": "2026-10-01 (1.3.81): advisory -> overlayProvided. Its only files outside the overlay are three scripts/source/*.psc (Papyrus SOURCE, never loaded; the compiled .pex are overlay-shipped); its pinned file stays enforced by the lock file check."
+    },
+    {
+      "modId": 86492,
+      "name": "Community Shaders",
+      "author": "Community Shaders Team",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 786669,
+          "name": "Community Shaders",
+          "version": "1.8.3",
+          "sizeBytes": 44092155,
+          "sizeMB": 42,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "SKSE/Plugins/CommunityShaders.dll",
+        "SKSE/Plugins/CommunityShaders.dll.disabled",
+        "Shaders/Features"
+      ]
+    },
+    {
+      "modId": 86533,
+      "name": "Armors of the Velothi Pt. II - HIMBO",
+      "author": "howierd42",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 366434,
+          "name": "Armors of the Velothi Pt. II - HIMBO",
+          "version": "1.2",
+          "sizeBytes": 47620635,
+          "sizeMB": 45.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/Armors of the Velothi - Ashland Boots [HIMBO]/Armors of the Velothi - Ashland Boots [HIMBO].osd"
+      ],
+      "_advisoryNote": "2026-09-17 (1.3.56): ADVISORY, kept deliberately. The lock now enforces, but enforcement acts on PINNED FILES and this mod has none: its only content is BodySlide .osd sources, which are not plugins and which the server never checks. Gating Play on it would wall out every player who has every pinned file but no body preset sources. bake-modlist.js refuses advisory only for a mod that DOES own a pinned file.",
+      "_note": "2026-09-17 (collection ptmvzi rev 22): BodySlide refit sources only, no plugin and no BSA. Detected by one BodySlide project file per shipped variant; the overlay ships built meshes, never CalienteTools/, so these can never be overlay-shadowed. Verified present in the curator's deployed Data (G:) on 2026-09-17. Order: left to the bake's modId-ascending append on purpose, which keeps every refit after its base (62752 / 69996).",
+      "overlayProvided": true,
+      "_overlayProvided": "2026-10-01 (1.3.81): advisory -> overlayProvided. Its archive is 140 files, ALL under CalienteTools/ (BodySlide sources the game never loads); the overlay ships the meshes built from them. Players kept seeing \"newer collection mods not installed\" for a download with no runtime effect. Re-verify if the wardrobe release changes."
+    },
+    {
+      "modId": 94244,
+      "name": "Armory of the Dragon Cult - Dragon Priest Armor",
+      "author": "ElectricSparx - Xavbio - Dareni",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 506924,
+          "name": "Armory of the Dragon Cult - Dragon Priest Armor",
+          "version": "2.0",
+          "sizeBytes": 726792500,
+          "sizeMB": 693.1,
+          "optional": false
+        }
+      ],
+      "_note": "REGRESSION FIX 2026-08-29. The generated pair was [DragonPriestArmorKP.esp, DragonPriestArmor.esp]. Detection is some(), and DragonPriestArmorKP.esp does not exist on the reference install AT ALL — it is a stale name that was never satisfiable. The overlay-shipped DragonPriestArmor.esp silently carried the check, so nobody noticed. When the overlay-shadow guard dropped that esp (launcher 1.3.50) the only survivor was the impossible one, and every player read '1 required mod missing'. Repointed at the mod's OWN loose meshes, which the overlay ships nothing under (verified against manifest 4.99.476). A dropped tautology must never leave behind a signature that is never true.",
+      "detect": [
+        "meshes/armor/dragonpriesthelms/dragonhelm_bronze_0.nif",
+        "meshes/actors/dragonpriest/character assets/maskbronze.nif"
+      ]
+    },
+    {
+      "modId": 101101,
+      "name": "Dragon Priests Retexture SE",
+      "author": "xavbio",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 506856,
+          "name": "Dragon Priests Retexture SE - Half Res",
+          "version": "1.1",
+          "sizeBytes": 645988190,
+          "sizeMB": 616.1,
+          "optional": false
+        }
+      ]
+    },
+    {
+      "modId": 104373,
+      "name": "The Great Cities- Resources",
+      "author": "Archinatic",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 571931,
+          "name": "The Great Cities - Resources 2k",
+          "version": "1.1.1",
+          "sizeBytes": 328650326,
+          "sizeMB": 313.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Resources - The Great Cities.esp"
+      ]
+    },
+    {
+      "modId": 108499,
+      "name": "Dark Hierophant Magic",
+      "author": "Kittytail",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 460451,
+          "name": "Dark Hierophant Magic",
+          "version": "1.43",
+          "sizeBytes": 15973155,
+          "sizeMB": 15.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Ghostlight.esl"
+      ]
+    },
+    {
+      "modId": 109194,
+      "name": "CBBE 3BA Vanilla Outfits Redone",
+      "author": "brokkamuky",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 757365,
+          "name": "CBBE 3BA Vanilla Outfits Redone - Default",
+          "version": "5.5.1",
+          "sizeBytes": 353498912,
+          "sizeMB": 337.1,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/CBBE 3BA Creation Club/Alternative Armors/Daedric Mail/Daedric Mail Armor 1st Person.nif"
+      ],
+      "_detect": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Chosen from the Vortex staging install as a file this mod installs that neither the overlay nor the wardrobe BSAs write (their loose copies are retired by the launcher).",
+      "_advisoryNote": "2026-10-01 (1.3.74): ADVISORY. Fresh rev 26 installs on players PCs lacked this mod detect file and the launcher walled them out of Play (\"3 required mods missing\") though the runtime payload is overlay-shipped (wardrobe BSAs / overlay esp). Reported, never a wall.",
+      "overlayProvided": true,
+      "_overlayProvided": "2026-10-01 (1.3.81): advisory -> overlayProvided. Every non-CalienteTools file it installs is overlay-shipped or a wardrobe BSA member (checked against overlay 4.99.622); its pinned files stay enforced by the lock file check."
+    },
+    {
+      "modId": 116314,
+      "name": "JK's Castle Volkihar",
+      "author": "Jkrojmal",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 500285,
+          "name": "JK's Castle Volkihar",
+          "version": "1.1.2",
+          "sizeBytes": 1520833,
+          "sizeMB": 1.5,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "JK's Castle Volkihar.esp"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: JK's Castle Volkihar.esp + .bsa are both overlay-asserted. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 127060,
+      "name": "Torches of Quality - Brighter. Warmer. Better.",
+      "author": "Ghaross41",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 532855,
+          "name": "Torches of Quality",
+          "version": "1.0.0",
+          "sizeBytes": 1128,
+          "sizeMB": 0,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Torches of Quality - Brighter. Warmer. Better..esp"
+      ]
+    },
+    {
+      "modId": 128173,
+      "name": "Mage Clothing Expansion",
+      "author": "Horn",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 545408,
+          "name": "Mage Clothing Expansion",
+          "version": "2.0.1",
+          "sizeBytes": 342956829,
+          "sizeMB": 327.1,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Mage Clothing Expansion.esp"
+      ]
+    },
+    {
+      "modId": 128838,
+      "name": "Mage Clothing Expansion - 3BA Uniboob",
+      "author": "Hornophobic aka Hornclonic",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 546543,
+          "name": "Mage Clothing Expansion - 3BA Uniboob",
+          "version": "1.1",
+          "sizeBytes": 74426901,
+          "sizeMB": 71,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/Mage Clothing Expansion 3BA/0MCE_3BA_(4f)_MageDress_Variant_UniBoob.nif",
+        "CalienteTools/BodySlide/ShapeData/Mage Clothing Expansion 3BA/0MCE_3BA_(1f)_MageOutfit_Variant_Modest.nif"
+      ]
+    },
+    {
+      "modId": 130296,
+      "name": "Armors of the Velothi Pt. II - My patches SE by Xtudo - Indoril Bonesaint",
+      "author": "Pulcharmsolis - My version by xtudo",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 679461,
+          "name": "Velothi II - SE by Xtudo - Fixes",
+          "version": "1.6",
+          "sizeBytes": 106069988,
+          "sizeMB": 101.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Armors of the Velothi Pt2.esp"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Every file this mod installs is overlay-shipped or a wardrobe BSA member, so presence is guaranteed and there is nothing left to detect. Re-verify if the wardrobe release changes."
+    },
+    {
+      "modId": 133353,
+      "name": "Armors of the Velothi Pt. I - 3BA and Himbo V5 Refits",
+      "author": "AdoringStan",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 562606,
+          "name": "Armors of the Velothi Pt. I - 3BA",
+          "version": "1.2",
+          "sizeBytes": 142993248,
+          "sizeMB": 136.4,
+          "optional": false
+        },
+        {
+          "fileId": 559938,
+          "name": "Armors of the Velothi Pt. I - Himbo V5",
+          "version": "1.1",
+          "sizeBytes": 107324937,
+          "sizeMB": 102.4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/3BA - Armors of the Velothi 1 - Ashlander Seer/3BA - Armors of the Velothi 1 - Ashlander Seer.osd",
+        "CalienteTools/BodySlide/ShapeData/HIMBO - Armors of the Velothi 1 - Ashlander Seer/HIMBO - Armors of the Velothi 1 - Ashlander Seer.osd"
+      ],
+      "advisory": true,
+      "_advisoryNote": "2026-09-17 (1.3.56): ADVISORY, kept deliberately. The lock now enforces, but enforcement acts on PINNED FILES and this mod has none: its only content is BodySlide .osd sources, which are not plugins and which the server never checks. Gating Play on it would wall out every player who has every pinned file but no body preset sources. bake-modlist.js refuses advisory only for a mod that DOES own a pinned file.",
+      "_note": "2026-09-17 (collection ptmvzi rev 22): BodySlide refit sources only, no plugin and no BSA. Detected by one BodySlide project file per shipped variant; the overlay ships built meshes, never CalienteTools/, so these can never be overlay-shadowed. Verified present in the curator's deployed Data (G:) on 2026-09-17. Order: left to the bake's modId-ascending append on purpose, which keeps every refit after its base (62752 / 69996)."
+    },
+    {
+      "modId": 134088,
+      "name": "Common Clothing Expansion",
+      "author": "Horn",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 574611,
+          "name": "Common Clothing Expansion",
+          "version": "1.7",
+          "sizeBytes": 87719291,
+          "sizeMB": 83.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Common Clothing Expanded.esp"
+      ]
+    },
+    {
+      "modId": 134100,
+      "name": "Armors of the Velothi Pt. II - 3BA Refits",
+      "author": "AdoringStan",
+      "category": "Equipment & Clothing",
+      "files": [
+        {
+          "fileId": 563149,
+          "name": "Armors of the Velothi Pt. II - 3BA",
+          "version": "1.0",
+          "sizeBytes": 187420403,
+          "sizeMB": 178.7,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/3BA - Armors of the Velothi 2 - Ashlander Warrior/3BA - Armors of the Velothi 2 - Ashlander Warrior - body.osd"
+      ],
+      "_advisoryNote": "2026-09-17 (1.3.56): ADVISORY, kept deliberately. The lock now enforces, but enforcement acts on PINNED FILES and this mod has none: its only content is BodySlide .osd sources, which are not plugins and which the server never checks. Gating Play on it would wall out every player who has every pinned file but no body preset sources. bake-modlist.js refuses advisory only for a mod that DOES own a pinned file.",
+      "_note": "2026-09-17 (collection ptmvzi rev 22): BodySlide refit sources only, no plugin and no BSA. Detected by one BodySlide project file per shipped variant; the overlay ships built meshes, never CalienteTools/, so these can never be overlay-shadowed. Verified present in the curator's deployed Data (G:) on 2026-09-17. Order: left to the bake's modId-ascending append on purpose, which keeps every refit after its base (62752 / 69996).",
+      "overlayProvided": true,
+      "_overlayProvided": "2026-10-01 (1.3.81): advisory -> overlayProvided. 141 of its 142 files are CalienteTools/ BodySlide sources; the overlay ships the built camonnatong meshes. The one runtime file, meshes/pulcharmsolis/camonnatong/data.xml (SMP config, conflict-winners.json), only comments out a Low_Skirt:1 collision shape vs the 2k base copy; HDT-SMP skips a missing shape. Ship that xml in the overlay to make it exact."
+    },
+    {
+      "modId": 134131,
+      "name": "Common Clothing Expansion - CBBE 3BA",
+      "author": "Hornophobic aka Hornclonic",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 570461,
+          "name": "Common Clothing Expansion CBBE 3BA",
+          "version": "1.1",
+          "sizeBytes": 19744995,
+          "sizeMB": 18.8,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/0CCE_3BA_Female/0CCE_Dress1(no fabric around waist).osd",
+        "CalienteTools/BodySlide/ShapeData/0CCE_3BA_Female/0CCE_Dress1(no fabric around waist).nif"
+      ]
+    },
+    {
+      "modId": 135362,
+      "name": "TangyTweaks' assorted HIMBO conversions",
+      "author": "TangyTweaks",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 608188,
+          "name": "HIMBO Capital Windhelm Expansion",
+          "version": "1.0.0CWE",
+          "sizeBytes": 11493469,
+          "sizeMB": 11,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "CalienteTools/BodySlide/ShapeData/HIMBO Capital Windhelm Expansion/45 neck/finefurwjewelry.nif"
+      ],
+      "_detect": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Chosen from the Vortex staging install as a file this mod installs that neither the overlay nor the wardrobe BSAs write (their loose copies are retired by the launcher).",
+      "_advisoryNote": "2026-10-01 (1.3.74): ADVISORY. Fresh rev 26 installs on players PCs lacked this mod detect file and the launcher walled them out of Play (\"3 required mods missing\") though the runtime payload is overlay-shipped (wardrobe BSAs / overlay esp). Reported, never a wall.",
+      "overlayProvided": true,
+      "_overlayProvided": "2026-10-01 (1.3.81): advisory -> overlayProvided. Every non-CalienteTools file it installs is overlay-shipped or a wardrobe BSA member (checked against overlay 4.99.622); its pinned file stays enforced by the lock file check."
+    },
+    {
+      "modId": 162627,
+      "name": "Obsidian CS",
+      "author": "Bottle",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 681411,
+          "name": "Obsidian CS",
+          "version": "1.1.2",
+          "sizeBytes": 256266,
+          "sizeMB": 0.2,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Obsidian CS.esp"
+      ]
+    },
+    {
+      "modId": 168629,
+      "name": "The City of Crossed Daggers - Riften Expansion",
+      "author": "Marijn",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 713547,
+          "name": "The City of Crossed Daggers - Riften Expansion",
+          "version": "1.8",
+          "sizeBytes": 284863554,
+          "sizeMB": 271.7,
+          "optional": false
+        },
+        {
+          "fileId": 720464,
+          "name": "JK's Skyrim Patch",
+          "version": "1.6",
+          "sizeBytes": 84883,
+          "sizeMB": 0.1,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "Riften Expansion - JK's Skyrim Patch.esp",
+        "Riften Expansion.esp"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Overlay asserts this mod's entire payload, so presence is guaranteed and there is nothing left to detect: both Riften Expansion esps + Riften Expansion.bsa + - Textures.bsa are overlay-asserted. Verified against the published overlay manifest 2026-08-29 — re-verify if publish-overlay.js stops shipping any of it, or this becomes the black-face bug again."
+    },
+    {
+      "modId": 182346,
+      "name": "HDT-SMP Moon Monk's Robes Patch",
+      "author": "tatururutia",
+      "category": "Other",
+      "files": [
+        {
+          "fileId": 762604,
+          "name": "HDT-SMP Moon Monk's Robes Patch",
+          "version": "1",
+          "sizeBytes": 4197786,
+          "sizeMB": 4,
+          "optional": false
+        }
+      ],
+      "detect": [
+        "meshes/armor/kad_khajiitmonk/hdtkhajiitmonk.xml"
+      ],
+      "overlayProvided": true,
+      "_overlayProvided": "Body-types wardrobe (#395), collection rev 24, 2026-09-30. Every file this mod installs is overlay-shipped or a wardrobe BSA member, so presence is guaranteed and there is nothing left to detect. Re-verify if the wardrobe release changes."
+    }
+  ]
+}

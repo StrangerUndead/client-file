@@ -1,0 +1,10 @@
+{
+  "env": "prod",
+  "port": 7777,
+  "hosts": [
+    "client.daedriconline.com",
+    "play.daedriconline.com",
+    "playdaedric.ddns.net"
+  ],
+  "publicKey": "ddc5ae4d5dc331526bf5a2d873627f0a3e028118b5cf2f1f89452f7f1cbc358dfdd49a8c62f0d9c7d2de74a6d3b9b273d54a8b9ec042135d67431a09d1b30f6a"
+}
